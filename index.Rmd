@@ -1,40 +1,33 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Beatrice Okrah"
+image: "official_pic.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "www.linkedin.com/in/dr-beatrice-okrah"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/BeatriceOkrah"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "okrahbeatrice3@gmail.com"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Beatrice Okrah is a physician,applied statistician AI researcher with a strong commitment to advancing equitable healthcare through data-driven innovation. Her work spans clinical care, machine-learning research, and health-systems strengthening,including co-leading the development of AI-powered diagnostic and clinical decision-support tools for the management of gestational diabetes and stroke in Ghana. She is currently an MPH candidate at the Johns Hopkins Bloomberg School of Public Health where she is learning to apply her knowledge to save lives, millions at a time.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Master of Public Health | June 2026 - present
 
-**The University of California, Berkeley** | Berkeley, CA
+**Kwame Nkrumah University of Science and Technology** | Ghana
 
-B.S. in Computer Science | September 2005 - May 2009
+Master of Science in Applied Statistics | 2025-2026
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Source Service Scholar,Next-One-Up** | Data Analyst | August,2026 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Kumasi Center for Collaborative Research** | AI researcher | 2024-2025
